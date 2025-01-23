@@ -56,7 +56,7 @@ To move the main character, use the following keys:
 
 ![Aspose Words 49f45f4d-15e7-4b3c-ac3e-568cd128747d 004](https://github.com/user-attachments/assets/a9cba532-c5d6-436c-a76e-25bded272bfe)
 
-# Autor ✍🏼
+# Author ✍🏼
 
 <table>
   <tr>
@@ -64,17 +64,17 @@ To move the main character, use the following keys:
   </tr>
 </table>
 
-# Contacto 📥
+# Contact 📥
 
 ◦ Email: sargsyansuren11@gmail.com
 
 ◦ Linkedin: https://www.linkedin.com/in/suren-sargsyan-25582a27a/
 
-# Quizás pueda interesarte!
+# You Might Be Interested!
 
-### - Para ver mi progresion en el common core 42 ↙️
+### - To see mt progression in the 42 common core ↙️
 
-[AQUÍ](https://github.com/SurSargsyan?tab=repositories)
+[HERE](https://github.com/SurSargsyan?tab=repositories)
 
-### - Mi perfil en la intranet de 42 ↙️
-[AQUÍ](https://profile.intra.42.fr/users/susargsy)
+### - My profile on the intranet ↙️
+[HERE](https://profile.intra.42.fr/users/susargsy)
